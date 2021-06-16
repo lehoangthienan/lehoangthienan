@@ -7,10 +7,10 @@
 
 <p align="center">
  
- <img src="https://badges.pufler.dev/visits/ritik307/ritik307"/> 
+ <img src="https://badges.pufler.dev/visits/lehoangthienan/lehoangthienan"/> 
  <!-- <img src="https://badges.pufler.dev/years/ritik307"/> -->
- <img src="https://badges.pufler.dev/repos/ritik307"/>
- <img src="https://badges.pufler.dev/commits/monthly/ritik307" />
+ <img src="https://badges.pufler.dev/repos/lehoangthienan"/>
+ <img src="https://badges.pufler.dev/commits/monthly/lehoangthienan" />
 
 </p>
 

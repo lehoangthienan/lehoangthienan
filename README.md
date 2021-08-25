@@ -1,5 +1,4 @@
 ### Hi there 👋
-
 <p align="center">
  
 </p align="center">
@@ -13,10 +12,6 @@
  <img src="https://badges.pufler.dev/commits/monthly/lehoangthienan" />
 
 </p>
-
-<p align="center">
-  I am a Full Stack Engineer at Cho Tot and I would like to work in a professional environment, friendly and friendly colleagues, the best welfare. My slogan is "Try not become a man of Success, but rather try to become a man of Value".
-</p>  
 
 <h2 align="center">Technology Stack <img src="https://github.com/ritik307/ritik307/blob/main/images/laptop.gif" width="50"></h2>
 
@@ -42,16 +37,16 @@
 <br>
 
 <p align = "center">
-  <img  src = "https://github-readme-stats.vercel.app/api?username=lehoangthienan&show_icons=true&theme=radical&line_height=27">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=lehoangthienan&hide=html,css,java,shaderlab,kotlin,hlsl&theme=radical">
+  <img  src = "https://github-readme-stats.vercel.app/api?username=lehoangthienan&show_icons=true&line_height=27">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=lehoangthienan&hide=html,css,java,shaderlab,kotlin,hlsl,php,c++">
 </p>
 
 <p align = "center">
- <img  src="https://github-readme-streak-stats.herokuapp.com/?user=lehoangthienan&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0" />
+ <img  src="https://github-readme-streak-stats.herokuapp.com/?user=lehoangthienan&show_icons=true&locale=en&layout=compact&line_height=0" />
 </p> 
 
 <p align = "center">
- <img src="https://activity-graph.herokuapp.com/graph?username=lehoangthienan&theme=redical">
+ <img src="https://activity-graph.herokuapp.com/graph?username=lehoangthienan">
 </p> 
 
 <h2 align="center">Reach me on <img src="https://media0.giphy.com/media/jqNPzdTTxQfOgOqpO4/source.gif" width="50"></h2>
